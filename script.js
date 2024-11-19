@@ -22,7 +22,7 @@ console.log("Removed Menu Item:", removedMenuItem);
 // Task 2: Create a new array with all menu prices increased by 10%
 const increasedMenuDatabase = menuDatabase.map(item => [item[0], item[1] * 1.10, item[2]]);
 console.log("Increased Menu Database:", increasedMenuDatabase); 
-if
+
 
 
 // Task 3: Count the number of vegetarian dishes
