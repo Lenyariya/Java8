@@ -1,3 +1,16 @@
 body{
     background-color: rgb(151, 253, 104);
 }
+.menu-item {
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 8px;
+    max-width: 200px;
+    text-align: center;
+  }
+  .menu-item img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+  }
